@@ -1,0 +1,47 @@
+Soon after the Russian invasion, the hoaxes began. Ukrainian refugees were taking jobs, committing crimes and abusing handouts. The misinformation spread rapidly online throughout Eastern Europe, sometimes pushed by Moscow in an effort to destabilize its neighbors.
+
+It’s the kind of swift spread of falsehoods that has been blamed in many countries for increased polarization and an erosion of trust in democratic institutions, journalism and science.
+
+But countering or stopping misinformation has proven elusive.
+
+New findings from university researchers and Google, however, reveal that one of the most promising responses to misinformation may also be one of the simplest.
+
+In a paper published Wednesday in the journal Science Advances, the researchers detail how short online videos that teach basic critical thinking skills can make people better able to resist misinformation.
+
+The researchers created a series of videos similar to a public service announcement that focused on specific misinformation techniques — characteristics seen in many common false claims that include emotionally charged language, personal attacks or false comparisons between two unrelated items.
+
+Researchers then gave people a series of claims and found that those who watched the videos were significantly better at distinguishing false information from accurate information.
+
+It’s an approach called “pre-bunking” and it builds on years of research into an idea known as inoculation theory that suggests exposing people to how misinformation works, using harmless, fictional examples, can boost their defenses to false claims.
+
+With the findings in hand, Google plans to roll out a series of pre-bunking videos soon in Eastern Europe focused on scapegoating, which can be seen in much of the misinformation about Ukrainian refugees. That focus was chosen by Jigsaw, a division of Google that works to find new ways to address misinformation and extremism.
+
+“We have spent quite a bit of time and energy studying the problem,” said Beth Goldberg, Jigsaw’s head of research and one of the authors of the paper. “We started thinking: How can we make the users, the people online, more resilient to misinformation?”
+
+The two-minute clips then demonstrate how these tactics can show up in headlines, or social media posts, to make a person believe something that isn’t true.
+
+They’re surprisingly effective. Subjects who viewed the videos were found to be significantly better at distinguishing false claims from accurate information when tested by the researchers. The same positive results occurred when the experiment was replicated on YouTube, where nearly 1 million people viewed the videos.
+
+Researchers are now investigating how long the effects last, and whether “booster” videos can help sustain the benefits.
+
+Earlier findings have suggested that online games or tutorials that teach critical thinking skills can also improve resiliency to misinformation. But videos, which could be played alongside online advertisements, are likely to reach many more people, said Jon Roozenbeek, a Cambridge University professor and one of the authors of the study.
+
+Other authors included researchers at the University of Bristol in the U.K. and the University of Western Australia.
+
+Google’s effort will be one of the largest real-world tests of pre-bunking so far. The videos will be released on YouTube, Facebook and TikTok, in Poland, the Czech Republic and Slovakia. All three countries have accepted large numbers of Ukrainian refugees and their citizens could be vulnerable to misinformation about refugees.
+
+Jigsaw CEO Yasmin Green said the work on prebunking is intended to complement Google’s other efforts to reduce the spread of misinformation: “As the scourge of misinformation grows, there’s a lot more we can do to provide people with prompts and features that help them stay safe and informed online.”
+
+While journalistic fact checks can be effective in debunking a particular piece of misinformation, they’re time and labor intensive. By focusing on characteristics of misinformation in general instead of specific claims, pre-bunking videos can help a person spot false claims on a wider variety of topics.
+
+Another method, content moderation by social media companies, can often be inconsistent. While platforms like Facebook and Twitter often remove misinformation that violates their rules, they’re also criticized for failing to do more. Other platforms like Telegram or Gab boast a largely hands-off approach to misinformation.
+
+Social media content moderation and journalistic fact checks can also run the risk of alienating those who believe the misinformation. They might also be ignored by people who already distrust legitimate news outlets.
+
+“The word fact checking itself has become politicized,” Roozenbeek said.
+
+Pre-bunking videos, however, don’t target specific claims, and they make no assertions about what is true or not. Instead, they teach the viewer how false claims work in general — whether it’s a claim about elections or NASA’s moon landings, or the latest outbreak of the avian flu.
+
+That transferability makes pre-bunking a particularly effective way of confronting misinformation, according to John Cook, a research professor at Australia’s Monash University who has created online games that teach ways to spot misinformation.
+
+“We’ve done enough research to know this can be effective,” Cook said. “What we need now is the resources to deploy this at scale.”
